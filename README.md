@@ -8,7 +8,9 @@ Level PR's are welcome!
 
 ## Supremacy Inc.
 
-We believe that Vyper is a completely underrated language and that the Solidity language is currently a leader in the EVM compatible chain ecosystem, due to the size of their community and code reuse. We hope that this project will help Vyper to build up community awareness and get more engineers and security researchers who want to get started with Vyperlang to join the ecosystem and grow the Vyperlang ecosystem :)
+We believe that Vyper is a completely underrated language and that the Solidity language is currently a leader in the EVM compatible chain ecosystem, due to the size of their community and code reuse. 
+
+We hope that this project will help Vyper to build up community awareness and get more engineers and security researchers who want to get started with Vyperlang to join the ecosystem and grow the Vyperlang ecosystem :)
 
 ## License
 
