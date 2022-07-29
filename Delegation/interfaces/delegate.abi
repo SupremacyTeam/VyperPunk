@@ -1,0 +1,1 @@
+[{"stateMutability": "nonpayable", "type": "constructor", "inputs": [], "outputs": []}, {"stateMutability": "nonpayable", "type": "function", "name": "pwn", "inputs": [], "outputs": [], "gas": 35349}, {"stateMutability": "view", "type": "function", "name": "owner", "inputs": [], "outputs": [{"name": "", "type": "address"}], "gas": 2490}]
