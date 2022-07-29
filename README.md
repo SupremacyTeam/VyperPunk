@@ -16,7 +16,7 @@ We hope that this project will help Vyper to build up community awareness and ge
 
 This project is built using `eth-brownie`, so you will need to have this tool installed on your computer.
 
-Trick: When you execute a script file in the project using brownie run, Brownie will automatically compile it using Vyper, and if you haven't downloaded and installed the Vyperlang compiler before, then Brownie will automatically download and install it and compile it later
+Trick: When you execute a script file in the project using brownie run, Brownie will automatically compile it using Vyper, and if you haven't downloaded and installed the Vyperlang compiler before, then Brownie will automatically download and install it and compile it later.
 
 ```
 pip install eth-brownie
