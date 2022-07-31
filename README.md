@@ -19,7 +19,7 @@ This project is built using `eth-brownie`, so you will need to have this tool in
 Trick: When you execute a script file in the project using brownie run, Brownie will automatically compile it using Vyper, and if you haven't downloaded and installed the Vyperlang compiler before, then Brownie will automatically download and install it and compile it later.
 
 ```
-pip install eth-brownie
+pip install eth-brownie rich
 ```
 
 Once installed write the appropriate Exp smart contract for the level, then write `scripts/run.py` and finally by running the command.
