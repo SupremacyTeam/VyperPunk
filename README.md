@@ -6,11 +6,15 @@ The game acts both as a tool for those interested in learning ethereum, and as a
 
 Level PR's are welcome!
 
+Online Website: [VyperPunk.com](https://vyperpunk.com)
+
 ## Supremacy Inc.
 
 We believe that Vyper is a completely underrated language and that the Solidity language is currently a leader in the EVM compatible chain ecosystem, due to the size of their community and code reuse. 
 
 We hope that this project will help Vyper to build up community awareness and get more engineers and security researchers who want to get started with Vyperlang to join the ecosystem and grow the Vyperlang ecosystem :)
+
+Official Website: [Supremacy.Team](https://supremacy.team)
 
 ## Flow
 
