@@ -1,4 +1,4 @@
-# Author by Supremacy Inc.
+# Author by Supremacy Inc. #
 # @version ^0.3.0
 
 winner: public(address)
